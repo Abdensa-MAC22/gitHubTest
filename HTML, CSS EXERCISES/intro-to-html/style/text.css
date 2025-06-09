@@ -1,0 +1,151 @@
+.p{
+  color: red;
+}
+
+.Name {
+
+font-family: 'Times New Roman', Times, serif;
+font-size: x-large;
+font-weight: bold;
+font-style: oblique;
+
+}
+
+.course {
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+font-weight: bold;
+font-style:italic;
+
+}
+
+.status {
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+font-weight: bold;
+font-style:italic;
+
+}
+
+.more {
+
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: small;
+font-style:normal;
+color: white;
+background-color: rgb(183, 37, 37);
+text-align: center;
+padding-bottom: 20px;
+padding-top: 20px;
+width: 500px;
+
+}
+
+.info {
+  color: yellow;
+  font-weight: bold;
+}
+
+.info:hover {
+  text-decoration: underline;
+}
+
+
+.a{
+  font-family:tahoma;
+  font-weight: bold;
+ line-height:0.1mm;
+ text-align: center;
+}
+
+.b{
+  font-family:tahoma;
+  color: rgb(153, 149, 149);
+  line-height: 2mm;
+  text-align: center;
+}
+
+.c{
+  font-family:tahoma;
+  font-weight: bold;
+ line-height:4mm;
+ color: orange;
+ font-size: 10px;
+ text-align: center;
+}
+
+.a1{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color:green;
+  color:white;
+  border-radius: 6px;
+  padding-bottom: 7px;
+  padding-top: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 10px;
+  border:none;
+  font-size:x-small;
+  margin-left: 280px;
+  margin-bottom: 30px;
+}
+
+.d{
+   font-family:tahoma;
+  font-weight: bold;
+ line-height:4mm;
+ font-size: 10px;
+ text-align: center;
+line-height: 20px;
+}
+
+.d1{
+  color: rgb(16, 99, 189);
+}
+
+.e{
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+ line-height:4mm;
+ font-size: 20px;
+ text-align: center;
+line-height: 2mm;
+margin-bottom: 10px;
+}
+
+.e1{
+
+  font-family:Arial, Helvetica, sans-serif;
+color: gray;
+font-size: small;
+font-weight: lighter;
+line-height: 2mm;
+}
+
+.f{
+  font-family:Arial, Helvetica, sans-serif;
+color: rgb(15, 162, 30);
+font-size: small;
+font-weight: lighter;
+text-align: center;
+margin-top: 2px;
+
+}
+
+.g{
+
+font-family:Arial, Helvetica, sans-serif;
+color: rgb(102, 106, 102);
+font-size: small;
+font-weight: lighter;
+text-align: center;
+margin-top: 2px;
+
+}
+
+.g1{
+  color:red;  
+}
